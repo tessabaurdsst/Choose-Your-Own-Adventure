@@ -1,0 +1,64 @@
+.run {
+  margin: -10px;
+  margin-bottom: 30px;
+  background-image: url(https://i.ytimg.com/vi/wgzZyOf7cGE/maxresdefault.jpg);
+  width: 1350px;
+  }
+
+.run:hover {
+  color: red;
+  background-image: url(http://m.img.brothersoft.com/android/11/11a7c1e8cc0692a40a26c9800306b588_screeshots_4.jpeg);
+}
+
+body {
+  background-image: url(https://i.pinimg.com/736x/1d/c2/07/1dc207d208290334e02fd9432643372f--damask-wallpaper-hamlet.jpg);
+  background-repeat: repeat;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
+
+#house {
+  margin-left: 430px;
+  width:500px;
+}
+
+img {
+  margin-left: 320px;
+  width: 700px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Six Caps', sans-serif;
+  font-size: 150px;
+  padding: 0px;
+  margin: 10px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-family: 'IM Fell DW Pica', serif;
+  font-size: 50px;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  font-family: 'IM Fell DW Pica', serif;
+  font-size: 30px;
+}
